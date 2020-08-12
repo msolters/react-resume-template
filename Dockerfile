@@ -8,6 +8,6 @@ RUN npm run build
 FROM node
 COPY --from=build /app/build /app
 RUN npm install -g serve
-ENTRYPOINT ["serve"]
-CMD ["-s app"]
-
+WORKDIR /app
+ENTRYPOINT ["npx"]
+CMD ["serve"]
