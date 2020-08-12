@@ -76,7 +76,7 @@ data:
         ssl_certificate_key /etc/ssl/resty-auto-ssl-fallback.key;
 
         location / {
-          proxy_pass http://localhost:8000;
+          proxy_pass http://localhost:5000;
         }
       }
 
