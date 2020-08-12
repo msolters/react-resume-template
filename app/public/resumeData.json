@@ -15,7 +15,7 @@
       "zip": "32607"
     },
     "website": "https://marksolters.com",
-    "resumedownload":"https://marksolters.com/files/cv.pdf",
+    "resumedownload":"https://github.com/msolters/react-resume-template/raw/master/app/public/files/cv.pdf",
     "social":[
       {
         "name":"linkedin",
