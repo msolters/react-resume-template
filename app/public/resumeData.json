@@ -3,19 +3,19 @@
     "name":"Mark Solters",
     "occupation":"Site Reliability Engineer",
     "description":"I am an experienced full stack developer with a background in IoT, robotics and containerized cloud technologies.",
-    "image":"profilepic.jpg",
-    "bio":"",
+    "image":"https://avatars0.githubusercontent.com/u/4452380?s=460&u=cfbb500e447f5353a49ebf2dfca5acebd32b5ca7&v=4",
+    "bio":"I have experience in both embedded and cloud software development, as well as hardware prototyping and development.  I am also a musician, and my passion is piping, primarily in the Scottish and Irish traditions.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "msolters@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "857-928-3434",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Gainesville",
+      "state":"FL",
+      "zip": "32607"
     },
-    "website": "https://www.marksolters.com",
-    "resumedownload":"https://www.marksolters.com",
+    "website": "https://marksolters.com",
+    "resumedownload":"https://marksolters.com/files/cv.pdf",
     "social":[
       {
         "name":"linkedin",
