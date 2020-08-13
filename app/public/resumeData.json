@@ -143,7 +143,7 @@
       {
         "title":"Contiki OTA",
         "category":"Developed an over-the-air firmware update feature for ContikiOS (popular OS for embedded devices), allowing distributing and self-flashing of firmware across a CSMA mesh via HTTP or CoAP fragmentation, for Cortex-M3 based devices",
-        "image":"contiki.jpg",
+        "image":"contiki.png",
         "url":"todo: rehost article and put url here"
       }
     ]
