@@ -2,9 +2,9 @@
   "main": {
     "name":"Mark Solters",
     "occupation":"Site Reliability Engineer",
-    "description":"I am an experienced full stack developer with a background in IoT, robotics and containerized cloud technologies.",
+    "description":"I have been making web sites since I was in 3rd grade.  Not this one though. I forked the first \"react resume\" repo in a Google search, added a Dockerfile (which came to me in a dream), CD'd it to a personal k8s cluster with Skaffold and then Terraformed a DNS record for the load balancer.",
     "image":"https://avatars0.githubusercontent.com/u/4452380?s=460&u=cfbb500e447f5353a49ebf2dfca5acebd32b5ca7&v=4",
-    "bio":"I have experience in both embedded and cloud software development, as well as hardware prototyping and development.  I am also a musician, and my passion is piping, primarily in the Scottish and Irish traditions.",
+    "bio":"I have a background in physics, robotics, IoT and software engineering.  As a young child I displayed an exceptional virtuosity for turning things off, and then, after some period of time, back on.  This natural gift let me to my work today in DevOps automating a variety of containerized cloud platforms and CI/CD pipelines emanating thereof.  I have on-call MongoDB, MySQL, MariaDB and k8s experience.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "msolters@gmail.com",
     "phone": "857-928-3434",
@@ -55,70 +55,96 @@
     ],
     "skills":[
       {
+	"name":"Ansible",
+	"level":"65%"
+      },
+      {
+	"name":"Bagpipes",
+	"level":"100%"
+      },
+      {
+	"name":"C",
+	"level":"65%"
+      },
+      {
+	"name":"CSS",
+	"level":"75%"
+      },
+      {
+	"name":"Docker",
+	"level":"90%"
+      },
+      {
+        "name":"Documentation",
+        "level":"95%"
+      },
+      {
         "name":"Git",
+        "level":"85%"
+      },
+      {
+        "name":"Golang",
+        "level":"70%"
+      },
+      {
+        "name":"Googling Stuff",
+        "level":"99%"
+      },
+      {
+        "name":"JavaScript",
         "level":"80%"
       },
       {
         "name":"Kubernetes",
-        "level":"85%"
+        "level":"95%"
       },
       {
-        "name":"Terraform",
-        "level":"80%"
+        "name":"Linux",
+        "level":"75%"
       },
       {
-        "name":"CSS",
-        "level":"70%"
+        "name":"Memes",
+        "level":"110%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
+        "name":"MongoDB DBA",
         "level":"80%"
       },
       {
         "name":"MySQL DBA",
         "level":"90%"
+      },
+      {
+	"name":"NodeJS",
+	"level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Terraform",
+        "level":"90%"
+      },
+      {
+        "name":"Vim",
+        "level":":%s/0\%/100%/"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"app-top",
+        "category":"A YAML document sandbox that lets you construct dependecy graphs, as of distributed cloud architectures",
+        "image":"app-top.jpg",
+        "url":"https://app-top.marksolters.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Contiki OTA",
+        "category":"Developed an over-the-air firmware update feature for ContikiOS (popular OS for embedded devices), allowing distributing and self-flashing of firmware across a CSMA mesh via HTTP or CoAP fragmentation, for Cortex-M3 based devices",
+        "image":"contiki.jpg",
+        "url":"todo: rehost article and put url here"
       }
     ]
   },
