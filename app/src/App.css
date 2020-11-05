@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Avant_Garde';
+  src: url('https://webslinger.com.au/pens/bttf/fonts/ITC_Avant_Garde_Gothic/ITCAvantGardeStd-Bk.woff2') format('woff2'),
+       url('https://webslinger.com.au/pens/bttf/fonts/ITC_Avant_Garde_Gothic/ITCAvantGardeStd-Bk.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+.legacy {
+  font-family: 'Avant_Garde';
+}
+.legacy-greeting {
+  font-family: 'Avant_Garde';
+  background-color: #333;
+  border-radius: 1em;
+  padding: 1em;
+}
+a:hover {
+  text-decoration: underline;
+}

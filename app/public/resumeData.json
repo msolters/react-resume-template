@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My skills levels are scraped directly by a k8s-hosted Prometheus pod every 10 seconds.",
     "education":[
       {
         "school":"University of Florida",
@@ -55,24 +55,24 @@
     ],
     "skills":[
       {
-	"name":"Ansible",
-	"level":"65%"
+        "name":"Ansible",
+        "level":"65%"
       },
       {
-	"name":"Bagpipes",
-	"level":"100%"
+        "name":"Bagpipes",
+        "level":"100%"
       },
       {
-	"name":"C",
-	"level":"65%"
+        "name":"C",
+        "level":"65%"
       },
       {
-	"name":"CSS",
-	"level":"75%"
+        "name":"CSS",
+        "level":"75%"
       },
       {
-	"name":"Docker",
-	"level":"90%"
+        "name":"Docker",
+        "level":"90%"
       },
       {
         "name":"Documentation",
@@ -115,8 +115,8 @@
         "level":"90%"
       },
       {
-	"name":"NodeJS",
-	"level":"80%"
+        "name":"NodeJS",
+        "level":"80%"
       },
       {
         "name":"Python",
@@ -142,9 +142,15 @@
       },
       {
         "title":"Contiki OTA",
-        "category":"Developed an over-the-air firmware update feature for ContikiOS (popular OS for embedded devices), allowing distributing and self-flashing of firmware across a CSMA mesh via HTTP or CoAP fragmentation, for Cortex-M3 based devices",
+        "category":"Over-the-air firmware update feature for ContikiOS",
         "image":"contiki.png",
-        "url":"todo: rehost article and put url here"
+        "url":"https://v1.marksolters.com/programming/2016/06/07/contiki-ota.html"
+      },
+      {
+        "title":"yamlamadingdong",
+        "category":"This is the one that'll get me that Nobel.  Navigate your YAML and JSON files in 3D, the way the Good Lord intended.",
+        "image":"yamlamadingdong.png",
+        "url":"https://yamlamadingdong.marksolters.com"
       }
     ]
   },

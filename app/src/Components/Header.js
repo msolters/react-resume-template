@@ -37,6 +37,8 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
             <hr />
+            <br/>
+            <h3 className="legacy-greeting">⚠️ If you're looking for my work in IoT, ContikiOS, and Over-the-Air mesh upgrades, please refer to my old website, <a href="https://v1.marksolters.com/">Mark Solters I: <span className="legacy">LEGACY</span><br/>(Director's Cut Edition)</a></h3>
             <ul className="social">
                {networks}
             </ul>
